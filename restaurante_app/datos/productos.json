@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "0001",
+        "nombre": "ENCEBOLLADO NORMAL",
+        "precio": 3.0,
+        "categoria": "SOPA",
+        "stock": 9
+    },
+    {
+        "codigo": "0002",
+        "nombre": "GUATITA",
+        "precio": 3.0,
+        "categoria": "SECO",
+        "stock": 5
+    },
+    {
+        "codigo": "0003",
+        "nombre": "CEVICHE",
+        "precio": 7.0,
+        "categoria": "SOPA",
+        "stock": 7
+    },
+    {
+        "codigo": "0004",
+        "nombre": "ENCEBOLLADO MIXTO",
+        "precio": 10.0,
+        "categoria": "SOPA",
+        "stock": 10
+    },
+    {
+        "codigo": "0005",
+        "nombre": "GUTAENCEBOLLADO",
+        "precio": 3.5,
+        "categoria": "COMBO",
+        "stock": 10
+    },
+    {
+        "codigo": "0006",
+        "nombre": "ALUERZO",
+        "precio": 3.0,
+        "categoria": "COMBO",
+        "stock": 10
+    }
+]
